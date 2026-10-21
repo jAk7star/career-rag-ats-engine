@@ -1,10 +1,10 @@
 {
   "candidate": {
-    "name": "Jaques Gabriel Amaral Nunes",
-    "location": "Macapá - AP, Brasil",
-    "email": "j.gabrielamaralnunes@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/jaquesnunes-techdocs",
-    "github": "https://github.com/jAk7star",
+    "name": "Alexandre Silva (Exemplo / Mock Profile)",
+    "location": "São Paulo - SP, Brasil",
+    "email": "alexandre.silva.demo@email.com",
+    "linkedin": "https://www.linkedin.com/in/demo-techdocs",
+    "github": "https://github.com/demo-developer",
     "languages": [
       {
         "language": "Português",
@@ -12,20 +12,20 @@
       },
       {
         "language": "Inglês",
-        "proficiency": "Em desenvolvimento (leitura técnica)"
+        "proficiency": "Intermediário (leitura técnica)"
       }
     ],
     "extracurricular": [
-      "Colaborador ativo no Google Local Guides em Macapá - AP",
-      "Projetos práticos Do It Yourself (DIY)"
+      "Colaborador ativo em projetos Open Source e comunidades tech",
+      "Desenvolvimento de projetos práticos e prototipagem rápida"
     ]
   },
   "education": [
     {
-      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Amapá (IFAP)",
-      "degree": "Licenciatura em Química",
-      "period": "2025 – 2028",
-      "field": "Ciências Naturais e Exatas"
+      "institution": "Universidade de Tecnologia e Ciências",
+      "degree": "Bacharelado / Licenciatura em Ciências Exatas",
+      "period": "2024 – 2027",
+      "field": "Ciências Exatas e Tecnologia da Informação"
     }
   ],
   "projects": [

@@ -68,13 +68,16 @@ Esta skill foi desenhada sob o padrão aberto **Agent Skills (`SKILL.md` + JSON 
 
 ## 🛠️ Como Executar o Compilador Localmente
 
-```bash
-# 1. Instale as dependências de geração documental
+`ash
+# 1. Instale as dependencias de geracao documental
 pip install python-docx reportlab
 
-# 2. Execute o compilador ATS conectado à sua base JSON
-python scripts/export_ats.py
-```
+# 2. Configure a base factual (utilize o template de exemplo ou personalize com seus dados)
+# No Linux/macOS: cp data/master_profile.example.json data/master_profile.json
+# No Windows PowerShell: Copy-Item data/master_profile.example.json data/master_profile.json
 
+# 3. Execute o compilador ATS conectado a sua base JSON
+python scripts/export_ats.py
+`
 ---
 **Desenvolvido por:** [Jaques Gabriel Amaral Nunes](https://github.com/jAk7star)
