@@ -30,6 +30,18 @@
   ],
   "projects": [
     {
+      "name": "Career RAG & ATS Intelligence Engine (career-rag-ats-engine)",
+      "technologies": [
+        "Python",
+        "Prompt Engineering",
+        "Structured JSON-RAG",
+        "python-docx",
+        "ReportLab",
+        "Guardrails"
+      ],
+      "description": "Arquitetura de Local JSON-RAG e Engenharia de Prompt em 5 camadas (Parser, Matching, Scoring deterministico 0-100, Otimizacao e Compilacao ATS em PDF/DOCX) com Negative Constraints estritas para eliminacao total de alucinacoes em LLMs ao adaptar curriculos."
+    },
+    {
       "name": "Diagnóstico de Logs Bancários via IA (ai-banking-log-diagnostics)",
       "technologies": [
         "Python",
