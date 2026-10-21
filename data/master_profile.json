@@ -1,0 +1,110 @@
+{
+  "candidate": {
+    "name": "Jaques Gabriel Amaral Nunes",
+    "location": "Macapá - AP, Brasil",
+    "email": "j.gabrielamaralnunes@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jaquesnunes-techdocs",
+    "github": "https://github.com/jAk7star",
+    "languages": [
+      {
+        "language": "Português",
+        "proficiency": "Nativo"
+      },
+      {
+        "language": "Inglês",
+        "proficiency": "Em desenvolvimento (leitura técnica)"
+      }
+    ],
+    "extracurricular": [
+      "Colaborador ativo no Google Local Guides em Macapá - AP",
+      "Projetos práticos Do It Yourself (DIY)"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Amapá (IFAP)",
+      "degree": "Licenciatura em Química",
+      "period": "2025 – 2028",
+      "field": "Ciências Naturais e Exatas"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Diagnóstico de Logs Bancários via IA (ai-banking-log-diagnostics)",
+      "technologies": [
+        "Python",
+        "Google Gemini",
+        "Engenharia de Prompt",
+        "Observabilidade"
+      ],
+      "description": "Estruturação avançada de prompts e automação para leitura e diagnóstico de mais de 1.200 logs operacionais brutos de aplicativo bancário, identificando anomalias, picos de latência (>7.000 ms), timeouts em transações PIX e falhas de autenticação com controle rigoroso de consumo de tokens."
+    },
+    {
+      "name": "Simulador e Modelagem de Risco Financeiro (Impacto Bets / credit-risk-synthetic-model)",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "ETL"
+      ],
+      "description": "Desenvolvimento de pipeline ETL de ponta a ponta para geração e processamento de 5.000 perfis sintéticos, analisando o impacto de plataformas de apostas na inadimplência e risco de crédito."
+    },
+    {
+      "name": "Pipelines de Sanitização Zero-Exposure e Dashboards (SupplyQ Pharma / Pfizer e Porsche Sales)",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Regex",
+        "Power BI",
+        "Power Query",
+        "HTML/JS",
+        "SheetJS"
+      ],
+      "description": "Construção de rotinas modulares de ETL com arquitetura Zero-Exposure para higienização local e mascaramento de dados sensíveis (LGPD) antes do consumo analítico ou por LLMs em nuvem, integrando resultados em dashboards interativos no Power BI e painéis client-side."
+    },
+    {
+      "name": "Ecossistema de Automação Nativa e Extensões Chrome (Sapere Labs / Workflows)",
+      "technologies": [
+        "JavaScript",
+        "JSON",
+        "Chrome Extensions",
+        "Chrome DevTools",
+        "HTML5",
+        "CSS3"
+      ],
+      "description": "Desenvolvimento de automações nativas de workflows em JavaScript puro com manipulação de estruturas JSON e empacotamento em extensões Chrome para extração e integração de dados em sistemas web sem custo de licenças de terceiros."
+    },
+    {
+      "name": "Documentação Técnica Conceitual de APIs e Assistentes Virtuais",
+      "technologies": [
+        "GPTs",
+        "LLMs",
+        "Chatbots",
+        "API Documentation",
+        "Markdown"
+      ],
+      "description": "Criação de assistentes virtuais e agentes de IA para padronização da comunicação corporativa e elaboração de documentação conceitual de APIs (Overview, Endpoints, Parameters, Error Responses, Workflow Diagram e Versioning)."
+    }
+  ],
+  "certifications": {
+    "tech_and_cloud": [
+      "Treinamento Preparatório AZ-900: Microsoft Azure Fundamentals (Ka Solution)",
+      "Treinamento Preparatório MS-900: Microsoft 365 Fundamentals (Ka Solution)",
+      "Mentoria Microsoft Fabric - Governança de Dados (DIO)",
+      "Masterclass: 3 Habilidades de IA para Vagas Tech Internacionais (DIO)",
+      "Python Fundamentals, Programação Orientada a Objetos (POO) e ETL com IA Generativa (DIO)",
+      "Proteção de Software e Segurança de IA (Santander X)",
+      "Lógica de Programação (Aprenda Mais / MEC)",
+      "CSS3: Estilizando Páginas Web (Aprenda Mais / MEC)"
+    ],
+    "business_and_operations": [
+      "Lean Seis Sigma White Belt",
+      "Assistente Administrativo (Aprenda Mais / MEC)",
+      "Assistente de Logística (Aprenda Mais / MEC)",
+      "Administração Financeira e Contabilidade Básica (Aprenda Mais / MEC)",
+      "Serviços de Recepção, Comunicação e Atendimento ao Cliente",
+      "Publicidade nas Redes Sociais (Santander X)",
+      "Operador de Caixa"
+    ]
+  }
+}
