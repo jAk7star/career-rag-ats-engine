@@ -68,7 +68,8 @@ Esta skill foi desenhada sob o padrão aberto **Agent Skills (`SKILL.md` + JSON 
 
 ## 🛠️ Como Executar o Compilador Localmente
 
-`ash
+`
+
 # 1. Instale as dependencias de geracao documental
 pip install python-docx reportlab
 
