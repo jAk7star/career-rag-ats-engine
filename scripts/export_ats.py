@@ -1,7 +1,7 @@
 """
 export_ats.py - Motor de Compilação ATS (Single-Column DOCX & PDF)
 Parte do projeto: Career RAG & ATS Intelligence Engine
-Autor: Jaques Gabriel Amaral Nunes (https://github.com/jAk7star)
+Autor: jAk7star
 """
 
 import json
@@ -111,7 +111,7 @@ if __name__ == "__main__":
     profile_data = load_master_profile()
     default_role = "AI Builder Júnior | Engenharia de Prompt & Automação de Dados (Python)"
     default_summary = (
-        "Profissional em formação na área de Ciências Exatas (IFAP) com foco prático em construção de soluções de "
+        "Profissional em formação na área de Ciências Exatas (UNIFE) com foco prático em construção de soluções de "
         "Inteligência Artificial (LLMs), Engenharia de Prompt e pipelines ETL em Python (Pandas, Regex). "
         "Desenvolvedor da arquitetura Zero-Exposure para sanitização local de dados sensíveis e controle de custos de tokens."
     )
