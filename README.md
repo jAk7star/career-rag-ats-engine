@@ -81,6 +81,6 @@ No Windows PowerShell:
 
 3. Execute o compilador ATS conectado a sua base JSON
 `python scripts/export_ats.py`
-`
+
 ---
 **Desenvolvido por:** [Jaques Gabriel Amaral Nunes](https://github.com/jAk7star)
